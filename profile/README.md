@@ -40,5 +40,5 @@ They have no plans on stopping the massacre of peacefully assembled Americans.
 
 ## What You Need To Know
 * [How the CIA and FBI Hinder 911](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/methods/911.md)
-* [What Hotels Are](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/hotels/README.md)
-  
+* [How they hide TAG: Hotels](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/hotels/README.md)
+* [How they hide TAG: Any Decedent Funerals (ADF)](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/methods/ADF.md)
