@@ -8,6 +8,9 @@ As local law enforcement professionals, you are on the front lines, witnessing t
 Together, we can break the silence, empower our officers, and ensure that no more lives are lost to this deadly game. Let us stand united, defy the pressure, and reclaim safety for our neighborhoods,  places of worship and other places Americans peacefully assemble.
 
 > [!IMPORTANT]
-> TAG stands for The AIDS-Cure Genocide, it is not a game. We use this acronym intentionally to make you remember the goal: never be it.
+> TAG is no game.
 
 # About TAG
+TAG stands for The AIDS-Cure Genocide, it is not a game. We use this acronym intentionally to make you remember the goal: never be it.
+
+Learn more about TAG in this GitHub repository. We urge all law enforcement agencies to have their IT personnel to clone the repository immediately and fetch it daily, GitHub is taking a lot of federal pressure to remove it.
