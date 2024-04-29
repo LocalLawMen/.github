@@ -20,4 +20,4 @@ TAG stands for The AIDS-Cure Genocide, it is not a game. We use this acronym int
 
 TAG or The AIDS-Cure Genocide, which is the result of corporate greed and BigPharma's response to an unexpected HIV/AIDS cure, that is a forthcoming product called Spark, direct from your Creator, the Creator. Spark **eliminates and prevents all disease** (not caused by organ failure) by fully activating the human immune system. What modern science considers a healthy immune system (T4s and T6s) is actually the last line of defense, the designed "failsafe."
 
-Learn more about TAG in this GitHub repository. We urge all law enforcement agencies to have their IT personnel to clone the repository immediately and fetch it daily, GitHub is taking a lot of federal pressure to remove it.
+Learn more about TAG in this [GitHub repository](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG). We urge all law enforcement agencies to have their IT personnel to clone the repository immediately and fetch it daily, GitHub is taking a lot of federal pressure to remove it.
