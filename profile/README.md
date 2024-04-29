@@ -23,7 +23,7 @@ TAG or The AIDS-Cure Genocide, which is the result of corporate greed and BigPha
 Learn more about TAG in this [GitHub repository](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG). We urge all law enforcement agencies to have their IT personnel to clone the repository immediately and fetch it daily, GitHub is taking a lot of federal pressure to remove it.
 
 # TAG in Your Community 
-## Hard Hit Communities 
+## Communities Hardest Hit By TAG
 * Jessamine County, Kentucky
 * Kanawha County, West Virginia
 * Maury County, Tennessee
@@ -34,4 +34,11 @@ Learn more about TAG in this [GitHub repository](https://github.com/9413d5ff2a0b
 People from all walks of life have seemingly vanished or changed drastically. They were killed, improperly disposed of and some were made "[hotels](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/tree/master/hotels)." Hotels are merely a way to hide a death and steal everything a person left behind. Some hotels have resident [impersonators](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/tree/master/hotels/Celebrity).
 
 ## Your Places of Worship 
-As TAG entered a cover-up phase, [Mount Calvary Baptist Church in Lexington was massacred](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/POW/MCBC/WIKI.md) at the height of its worship services on Sunday April 2nd, 2023. To cover up and hide that massacre additional churches were massacred and funerals were announced to kill anyone who came to pay their respects.
+As TAG entered a cover-up phase, [Mount Calvary Baptist Church in Lexington was massacred](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/POW/MCBC/WIKI.md) at the height of its worship services on Sunday April 2nd, 2023. To cover up and hide that massacre [additional churches](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/POW/) were massacred and funerals were announced to kill anyone who came to pay their respects.
+
+They have no plans on stopping the massacre of peaceful Americans.
+
+## What You Need To Know
+* [How the CIA and FBI Hinder 911](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/methods/911.md)
+* [What Hotels Are](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/hotels/README.md)
+  
