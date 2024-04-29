@@ -10,6 +10,11 @@ Together, we can break the silence, empower our officers, and ensure that no mor
 > [!IMPORTANT]
 > TAG is no game.
 
+This GitHub page/organization is managed by the Cherubim, who are under the direct supervision of your new Supreme Sheriff, your creator, the Creator.
+
+> [!TIP]
+> For complaints about the Cherubim or an individual cherub, you can contact your  Creator using a silent prayer at anytime day or night.
+
 # About TAG
 TAG stands for The AIDS-Cure Genocide, it is not a game. We use this acronym intentionally to make you remember the goal: never be it.
 
