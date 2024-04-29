@@ -36,7 +36,7 @@ People from all walks of life have seemingly vanished or changed drastically. Th
 ## Your Places of Worship 
 As TAG entered a cover-up phase, [Mount Calvary Baptist Church in Lexington was massacred](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/POW/MCBC/WIKI.md) at the height of its worship services on Sunday April 2nd, 2023. To cover up and hide that massacre [additional churches](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/POW/) were massacred and funerals were announced to kill anyone who came to pay their respects.
 
-They have no plans on stopping the massacre of peaceful Americans.
+They have no plans on stopping the massacre of peacefully assembled Americans.
 
 ## What You Need To Know
 * [How the CIA and FBI Hinder 911](https://github.com/9413d5ff2a0b4f237a264010b65350e7/TAG/blob/master/methods/911.md)
